@@ -31,3 +31,6 @@ Fique livre para o framework e/ou linguagens para integração com a API, o fron
 ## Da entrega
 Projeto com todos os arquivos em um repositório público com README legível e com instruções.
 Enviar url do repositório para <contato@prmord.io>
+
+## Do prazo
+7 dias a partir do recebimento por e-mail.
